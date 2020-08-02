@@ -85,7 +85,7 @@ const successNotify = document.getElementById('notity-success');
 const numberKeyPad = document.querySelector('.numbers');
 let userInputData = document.getElementById('user-data');
 const submitBtn = document.getElementById('submit-btn');
-let tryLeft = document.getElementById('numOfTry');
+let tryLeft = document.getElementById('leftTry');
 let totalTry = 3;
 
 
